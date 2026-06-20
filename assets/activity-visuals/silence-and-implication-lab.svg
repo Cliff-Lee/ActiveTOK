@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Silence and Implication Lab</title>
+  <desc id="desc">Silence and Implication Lab classroom visual showing how word choice, framing, metaphor, translation, and category boundaries shapes knowledge.</desc>
+  <rect width="960" height="540" rx="34" fill="#F7F3EA"/>
+  <rect x="0" y="0" width="18" height="540" fill="#2F865F"/>
+  <rect x="18" y="0" width="10" height="540" fill="#D89B38"/>
+  <text x="62" y="58" font-size="18" font-weight="800" fill="#1F6448">Knowledge and Language</text>
+  
+      <rect x="160" y="170" width="570" height="110" rx="18" fill="#FFFDF7" stroke="#172033" stroke-width="6"/>
+      <rect x="210" y="340" width="470" height="95" rx="18" fill="#FFF3DA" stroke="#D89B38" stroke-width="6"/>
+      <path d="M290 280 L360 340 M520 280 L465 340" stroke="#2F865F" stroke-width="8" stroke-linecap="round"/>
+      <text x="445" y="238" text-anchor="middle" font-size="42" font-weight="800" fill="#172033">WORDS</text>
+      <text x="445" y="402" text-anchor="middle" font-size="34" font-weight="800" fill="#8A5D14">MEANING</text>
+  <text x="62" y="120" text-anchor="start" font-size="42" font-weight="900" fill="#172033">Silence and Implication Lab</text>
+  <rect x="62" y="408" width="835" height="82" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="3"/>
+  <text x="86" y="444" text-anchor="start" font-size="22" font-weight="600" fill="#4A5872">Meaning often depends on implication; silence</text><text x="86" y="472" text-anchor="start" font-size="22" font-weight="600" fill="#4A5872">can communicate without explicitly claiming.</text>
+</svg>

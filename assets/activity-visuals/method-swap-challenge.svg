@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Method Swap Challenge</title>
+  <desc id="desc">Method Swap Challenge classroom visual showing how how standards of evidence move across areas of knowledge shapes knowledge.</desc>
+  <rect width="960" height="540" rx="34" fill="#F7F3EA"/>
+  <rect x="0" y="0" width="18" height="540" fill="#2F865F"/>
+  <rect x="18" y="0" width="10" height="540" fill="#D89B38"/>
+  <text x="62" y="58" font-size="18" font-weight="800" fill="#1F6448">Cross-AOK</text>
+  
+      <rect x="165" y="165" width="520" height="320" rx="24" fill="#FFFDF7" stroke="#172033" stroke-width="6"/>
+      <path d="M165 272 H685 M165 378 H685 M338 165 V485 M512 165 V485" stroke="#DED8CB" stroke-width="6"/>
+      <circle cx="252" cy="220" r="28" fill="#2F865F"/>
+      <circle cx="425" cy="326" r="28" fill="#D89B38"/>
+      <circle cx="598" cy="432" r="28" fill="#385E7F"/>
+      <path d="M252 220 L425 326 L598 432" fill="none" stroke="#172033" stroke-width="6" stroke-linecap="round"/>
+  <text x="62" y="120" text-anchor="start" font-size="42" font-weight="900" fill="#172033">Method Swap Challenge</text>
+  <rect x="62" y="408" width="835" height="82" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="3"/>
+  <text x="86" y="444" text-anchor="start" font-size="22" font-weight="600" fill="#4A5872">Methods carry assumptions about what can be</text><text x="86" y="472" text-anchor="start" font-size="22" font-weight="600" fill="#4A5872">known and how it should be justified.</text>
+</svg>
