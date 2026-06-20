@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Emotion Snapshot Audit visual prompt</title>
+  <desc id="desc">Original classroom visual prompt for the Emotion Snapshot Audit TOK activity.</desc>
+  <rect width="1200" height="675" fill="#F7F3EA"/>
+  <rect x="0" y="0" width="22" height="675" fill="#2F865F"/>
+  <rect x="22" y="0" width="12" height="675" fill="#D89B38"/>
+  <text x="82" y="92" font-size="24" font-weight="700" fill="#1F6448">Knowledge and the Knower • 20-30 min</text>
+  <text x="82" y="150" font-size="46" font-weight="800" fill="#172033">Emotion Snapshot Audit</text>
+  <text x="82" y="190" font-size="24" fill="#4A5872">Emotion is not merely noise in knowing; it can focus, filter, and frame evidence.</text>
+
+  <rect x="82" y="230" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="82" y="230" width="12" height="128" rx="6" fill="#2F865F"/>
+  <text x="116" y="266" font-size="20" font-weight="700" fill="#172033">Emotion Snapshot Audit Stimulus A</text>
+  <text x="116" y="302" font-size="17" fill="#4A5872">Student-facing stimulus 1: Scene: a student sees two fri</text>
+  <text x="116" y="328" font-size="17" fill="#4A5872">ends whispering and laughing near the classroom door. Be</text>
+  <rect x="622" y="230" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="622" y="230" width="12" height="128" rx="6" fill="#D89B38"/>
+  <text x="656" y="266" font-size="20" font-weight="700" fill="#172033">Emotion Snapshot Audit Stimulus B</text>
+  <text x="656" y="302" font-size="17" fill="#4A5872">Student-facing stimulus 2: Emotion frames: anxious, exci</text>
+  <text x="656" y="328" font-size="17" fill="#4A5872">ted, suspicious, calm, embarrassed, proud. Before discus</text>
+  <rect x="82" y="410" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="82" y="410" width="12" height="128" rx="6" fill="#385E7F"/>
+  <text x="116" y="446" font-size="20" font-weight="700" fill="#172033">Emotion Snapshot Audit Reveal / Twist</text>
+  <text x="116" y="482" font-size="17" fill="#4A5872">Student-facing stimulus 3: Emotion frames: anxious, exci</text>
+  <text x="116" y="508" font-size="17" fill="#4A5872">ted, suspicious, calm, embarrassed, proud. Before discus</text>
+  <rect x="622" y="410" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="622" y="410" width="12" height="128" rx="6" fill="#8A5D14"/>
+  <text x="656" y="446" font-size="20" font-weight="700" fill="#172033">Question 1</text>
+  <text x="656" y="482" font-size="17" fill="#4A5872">Write one claim in a complete sentence.</text>
+  <text x="656" y="508" font-size="17" fill="#4A5872"></text>
+  <text x="82" y="620" font-size="20" font-weight="700" fill="#172033">Use these cards to launch, sort, rank, or debrief the activity.</text>
+</svg>

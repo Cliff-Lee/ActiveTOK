@@ -1,0 +1,5 @@
+"group","count","test_result"
+"has_condition_true_positive","9","positive"
+"has_condition_false_negative","1","negative"
+"no_condition_false_positive","99","positive"
+"no_condition_true_negative","891","negative"

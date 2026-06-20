@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Bayes Update Cards visual prompt</title>
+  <desc id="desc">Original classroom visual prompt for the Bayes Update Cards TOK activity.</desc>
+  <rect width="1200" height="675" fill="#F7F3EA"/>
+  <rect x="0" y="0" width="22" height="675" fill="#2F865F"/>
+  <rect x="22" y="0" width="12" height="675" fill="#D89B38"/>
+  <text x="82" y="92" font-size="24" font-weight="700" fill="#1F6448">Mathematics • 35-45 min</text>
+  <text x="82" y="150" font-size="46" font-weight="800" fill="#172033">Bayes Update Cards</text>
+  <text x="82" y="190" font-size="24" fill="#4A5872">New evidence updates prior probability; it does not replace the background rate.</text>
+
+  <rect x="82" y="230" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="82" y="230" width="12" height="128" rx="6" fill="#2F865F"/>
+  <text x="116" y="266" font-size="20" font-weight="700" fill="#172033">Base rate card</text>
+  <text x="116" y="302" font-size="17" fill="#4A5872">Out of 1000 people, 10 have Condition X.</text>
+  <text x="116" y="328" font-size="17" fill="#4A5872"></text>
+  <rect x="622" y="230" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="622" y="230" width="12" height="128" rx="6" fill="#D89B38"/>
+  <text x="656" y="266" font-size="20" font-weight="700" fill="#172033">True positives card</text>
+  <text x="656" y="302" font-size="17" fill="#4A5872">The test correctly flags 9 of the 10 people with Conditi</text>
+  <text x="656" y="328" font-size="17" fill="#4A5872">on X.</text>
+  <rect x="82" y="410" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="82" y="410" width="12" height="128" rx="6" fill="#385E7F"/>
+  <text x="116" y="446" font-size="20" font-weight="700" fill="#172033">False positives card</text>
+  <text x="116" y="482" font-size="17" fill="#4A5872">The test falsely flags 99 people who do not have Conditi</text>
+  <text x="116" y="508" font-size="17" fill="#4A5872">on X.</text>
+  <rect x="622" y="410" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="622" y="410" width="12" height="128" rx="6" fill="#8A5D14"/>
+  <text x="656" y="446" font-size="20" font-weight="700" fill="#172033">Update card</text>
+  <text x="656" y="482" font-size="17" fill="#4A5872">After a positive test, use P(H | +) = 9 / (9 + 99) = 1 /</text>
+  <text x="656" y="508" font-size="17" fill="#4A5872"> 12 ≈ 8.3%.</text>
+  <text x="82" y="620" font-size="20" font-weight="700" fill="#172033">Use these cards to launch, sort, rank, or debrief the activity.</text>
+</svg>

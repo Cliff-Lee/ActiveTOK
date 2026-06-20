@@ -1,0 +1,4 @@
+"scenario","group_size","base_rate","test_accuracy","false_positive_rate"
+"Rare condition","1000","1%","95%","5%"
+"Common condition","1000","30%","85%","15%"
+"Airport screening","10000","0.5%","98%","2%"

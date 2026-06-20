@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+  <title id="title">Change blindness image A</title>
+  <desc id="desc">A classroom desk scene with small differences between image A and image B.</desc>
+  <rect width="1000" height="650" fill="#F7F3EA"/>
+  <rect x="95" y="140" width="810" height="390" rx="28" fill="#D8B98C"/>
+  <rect x="155" y="205" width="220" height="150" rx="16" fill="#FFFDF7" stroke="#DED8CB" stroke-width="4"/>
+  <line x1="180" y1="245" x2="340" y2="245" stroke="#4A5872" stroke-width="5"/>
+  <line x1="180" y1="285" x2="325" y2="285" stroke="#4A5872" stroke-width="5"/>
+  <rect x="430" y="215" width="180" height="120" rx="16" fill="#EAF0F7" stroke="#385E7F" stroke-width="4"/>
+  <text x="455" y="285" font-size="38" font-weight="800" fill="#172033">TOK</text>
+  <circle cx="720" cy="275" r="58" fill="#FFFDF7" stroke="#8A5D14" stroke-width="6"/>
+  <path d="M665 278 C620 248 615 310 660 310" fill="none" stroke="#8A5D14" stroke-width="10" stroke-linecap="round"/>
+  <rect x="710" y="390" width="130" height="44" rx="10" fill="#2F865F" transform="rotate(8 775 412)"/>
+  
+  <circle cx="275" cy="445" r="28" fill="#D89B38"/>
+  <text x="95" y="94" font-size="36" font-weight="800" fill="#172033">Image A</text>
+  <text x="95" y="585" font-size="24" fill="#4A5872">Look for changes in colour, position, added objects, and orientation.</text>
+</svg>

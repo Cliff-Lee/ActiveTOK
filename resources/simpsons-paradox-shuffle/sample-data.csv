@@ -1,0 +1,7 @@
+"method","subgroup","successes","total","success_rate"
+"A","easy","9","10","90%"
+"B","easy","72","90","80%"
+"A","hard","30","90","33.3%"
+"B","hard","2","10","20%"
+"A","overall","39","100","39%"
+"B","overall","74","100","74%"

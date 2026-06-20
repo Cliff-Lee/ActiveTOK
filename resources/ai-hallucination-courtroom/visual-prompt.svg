@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">AI Hallucination Courtroom visual prompt</title>
+  <desc id="desc">Original classroom visual prompt for the AI Hallucination Courtroom TOK activity.</desc>
+  <rect width="1200" height="675" fill="#F7F3EA"/>
+  <rect x="0" y="0" width="22" height="675" fill="#2F865F"/>
+  <rect x="22" y="0" width="12" height="675" fill="#D89B38"/>
+  <text x="82" y="92" font-size="24" font-weight="700" fill="#1F6448">Knowledge and Technology • 35-45 min</text>
+  <text x="82" y="150" font-size="46" font-weight="800" fill="#172033">AI Hallucination Courtroom</text>
+  <text x="82" y="190" font-size="24" fill="#4A5872">Fluency can be mistaken for knowledge.</text>
+
+  <rect x="82" y="230" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="82" y="230" width="12" height="128" rx="6" fill="#2F865F"/>
+  <text x="116" y="266" font-size="20" font-weight="700" fill="#172033">AI Paragraph On Trial</text>
+  <text x="116" y="302" font-size="17" fill="#4A5872">Students should verify AI-generated answers because larg</text>
+  <text x="116" y="328" font-size="17" fill="#4A5872">e language models do not truly understand facts; they pr</text>
+  <rect x="622" y="230" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="622" y="230" width="12" height="128" rx="6" fill="#D89B38"/>
+  <text x="656" y="266" font-size="20" font-weight="700" fill="#172033">Courtroom Roles</text>
+  <text x="656" y="302" font-size="17" fill="#4A5872">Prosecution: argue the paragraph is unreliable. Defence:</text>
+  <text x="656" y="328" font-size="17" fill="#4A5872"> argue parts are useful if treated carefully. Expert wit</text>
+  <rect x="82" y="410" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="82" y="410" width="12" height="128" rx="6" fill="#385E7F"/>
+  <text x="116" y="446" font-size="20" font-weight="700" fill="#172033">Hidden Issues</text>
+  <text x="116" y="482" font-size="17" fill="#4A5872">Fabricated citation: Elena Marsh and David Kline, Journa</text>
+  <text x="116" y="508" font-size="17" fill="#4A5872">l of Digital Reasoning, 2021. Plausible false detail: AI</text>
+  <rect x="622" y="410" width="470" height="128" rx="18" fill="#FFFDF7" stroke="#DED8CB" stroke-width="2"/>
+  <rect x="622" y="410" width="12" height="128" rx="6" fill="#8A5D14"/>
+  <text x="656" y="446" font-size="20" font-weight="700" fill="#172033">Claim Check: AI predicts likely word s</text>
+  <text x="656" y="482" font-size="17" fill="#4A5872">Verdict: Grounded</text>
+  <text x="656" y="508" font-size="17" fill="#4A5872"></text>
+  <text x="82" y="620" font-size="20" font-weight="700" fill="#172033">Use these cards to launch, sort, rank, or debrief the activity.</text>
+</svg>
